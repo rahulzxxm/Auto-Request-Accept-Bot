@@ -16,7 +16,7 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID",
-            "value": ""
+            "value": "22609670"
         },
         "API_HASH": {
             "description": "Your API Hash",
